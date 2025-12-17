@@ -2,6 +2,10 @@
 
 Este repositório organiza as listas de exercícios da disciplina **Programação e Algoritmos**. As soluções e os códigos de apoio estão implementados em linguagem C. O objetivo é facilitar o estudo, a prática e o acompanhamento das atividades da disciplina.
 
+## Trabalho final da disciplina
+
+Participei em equipe do trabalho final de Programação e Algoritmos, disponível em: [Trabalho-Final-PA](https://github.com/Weberttz/Trabalho-Final-PA.git). O projeto recebeu nota máxima na avaliação.
+
 ## Possíveis erros
 
 Podem haver erros, pois respondi à lista enquanto estava cursando o primeiro semestre de Ciência da Computação na UECE.
